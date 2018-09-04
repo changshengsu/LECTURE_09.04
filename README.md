@@ -63,3 +63,19 @@ Note that the prefix `userDef` here is my own personal choice; it stands for "us
 
 As of an hour before lecture, the mlab status page (<https://status.mlab.com/>) was reporting some outages.
 
+# Project Lombok... and a word or two about Java 9, 10, 11
+
+Writing boiler plate code is boring.
+
+Project Lombok <https://projectlombok.org/> gives you a way to avoid writing the boring setters, getters, toString, hashCode, etc.
+
+This is a feature that in later version of Java (10, 11, etc.) but until Java 11 has "long-term support" (which is coming in just a few weeks, but is still "in the future") you won't find many organizations using it.
+
+Indeed, a lot of the code examples we are finding to solve various problems *do not run on Java 10*.
+
+You are strongy encouraged, for at least the duration of CS56, to stick with Java 8.
+
+If you installed a later version, you may find your life will be easier if you either:
+* Do all your work on CSIL, or
+* Downgrade your Java installation to Java 8 (I just did so this morning on my own Mac)
+
