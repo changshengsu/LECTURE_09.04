@@ -58,3 +58,8 @@ Note that the prefix `userDef` here is my own personal choice; it stands for "us
 |-|-|-|
 | RESTful APIs, JSON, Lombok | [spark_java_restful_apis](/topics/spark_java_restful_apis/) | [sparkjava-lombok-jackson-example](https://github.com/ucsb-cs56-pconrad/sparkjava-lombok-jackson-example)|
 | MongoDB, MLab | [spark_java_mongodb](https://ucsb-cs56-pconrad.github.io/topics/spark_java_mongodb/) |  [sparkjava-mongodb-mlab-tutorial](https://github.com/ucsb-cs56-m18/sparkjava-mongodb-mlab-tutorial) |
+
+# We may have to defer the mlab stuff...
+
+As of an hour before lecture, the mlab status page (<https://status.mlab.com/>) was reporting some outages.
+
