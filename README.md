@@ -57,4 +57,4 @@ Note that the prefix `userDef` here is my own personal choice; it stands for "us
 | Topic | Description | Github Repo |
 |-|-|-|
 | RESTful APIs, JSON, Lombok | [spark_java_restful_apis](/topics/spark_java_restful_apis/) | [sparkjava-lombok-jackson-example](https://github.com/ucsb-cs56-pconrad/sparkjava-lombok-jackson-example)|
-| MongoDB, MLab | [spark_java_mongodb](https://ucsb-cs56-pconrad.github.io/topics/spark_java_mongodb/) |  [sparkjava-mongodb-mlab-tutorial](https://github.com/ucsb-cs56-pconrad/sparkjava-mongodb-mlab-tutorial) |
+| MongoDB, MLab | [spark_java_mongodb](https://ucsb-cs56-pconrad.github.io/topics/spark_java_mongodb/) |  [sparkjava-mongodb-mlab-tutorial](https://github.com/ucsb-cs56-m18/sparkjava-mongodb-mlab-tutorial) |
